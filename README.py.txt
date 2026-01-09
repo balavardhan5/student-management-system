@@ -17,3 +17,6 @@ to manage student records.
 ## How to Run
 ```bash
 python main.py
+
+## Screenshot
+![Output](screenshot.png)
